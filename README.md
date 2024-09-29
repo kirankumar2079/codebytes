@@ -1,2 +1,2 @@
-# pathfindingalgorithims
-This repository contians path fininding algorithims in python
+# pathfindingalgorithms
+This repository contians path fininding algorithms in python
