@@ -9,7 +9,7 @@ To run this algorithm copy / download the code in astar.py and install pygame mo
  - click space button once you are ready
 
  sample images
- ![Maze 1  - unsolved](https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/maze1.png)
+ ![Maze 1  - unsolved](https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/maze1.png=300x300)
  ![Maze 1  - solved](https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/solution1.png)
 
 see the time taken to run in the console
