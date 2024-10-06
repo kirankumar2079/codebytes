@@ -20,6 +20,7 @@ The A* (A-star) algorithm is a popular pathfinding and graph traversal algorithm
 A* is both complete and optimal, meaning it always finds a solution if one exists, and the solution will be the shortest path. Its efficiency heavily depends on the heuristic used—if the heuristic is well-designed (admissible and consistent), A* can be extremely fast.
 
 [Read my article on A* algorithm](https://medium.com/@kiran09082001/mastering-the-a-search-algorithm-in-python-a-real-time-visualization-guide-3c4685dfd7a7)
+[Recommended Youtube video](https://www.youtube.com/watch?v=JtiK0DOeI4A)
 
 
 ### Instructions to Run:
