@@ -24,7 +24,7 @@ A* is both complete and optimal, meaning it always finds a solution if one exist
 
 
 ### Instructions to Run:
-`To run this algorithm copy / download the code in astar.py and install pygame module and in the path that has the reporsitory run "python astar.py" (cells 10 - 100 are recommended)`
+`To run this algorithm copy / download the code in` [astar.py](https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/astar.py) `and install pygame module and in the path that has the reporsitory run "python astar.py" (cells 10 - 100 are recommended)`
  - In the window that opened
  - click wehere you want the starting point to be (bule)
  - click where you want the end point to be (green)
