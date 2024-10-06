@@ -19,7 +19,10 @@ The A* (A-star) algorithm is a popular pathfinding and graph traversal algorithm
 
 A* is both complete and optimal, meaning it always finds a solution if one exists, and the solution will be the shortest path. Its efficiency heavily depends on the heuristic used—if the heuristic is well-designed (admissible and consistent), A* can be extremely fast.
 
+[Read my article on A* algorithm](https://medium.com/@kiran09082001/mastering-the-a-search-algorithm-in-python-a-real-time-visualization-guide-3c4685dfd7a7)
 
+
+### Instructions to Run:
 `To run this algorithm copy / download the code in astar.py and install pygame module and in the path that has the reporsitory run "python astar.py" (cells 10 - 100 are recommended)`
  - In the window that opened
  - click wehere you want the starting point to be (bule)
