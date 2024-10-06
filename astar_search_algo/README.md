@@ -17,3 +17,7 @@ To run this algorithm copy / download the code in astar.py and install pygame mo
  <img src="https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/solution1.png" alt="Solved Maze" width="500" height="500">
 
 
+<div style="width: 20px; height: 20px; background-color: rgb(255, 0, 0); display: inline-block;"></div>
+<div>
+
+<div>
