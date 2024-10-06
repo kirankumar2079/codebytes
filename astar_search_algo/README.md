@@ -9,6 +9,16 @@ To run this algorithm copy / download the code in astar.py and install pygame mo
  - click space button once you are ready
  - see the time taken to run in the console
 
+ - Color meanings
+    -- Blue
+    -- Green
+    -- Black
+    -- White
+    -- Light Green
+    -- Yellow
+    -- Orange
+
+
  sample images
  - unsolved maze
  <img src="https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/maze1.png" alt="Unsolved Maze" width="500" height="500">
@@ -17,7 +27,3 @@ To run this algorithm copy / download the code in astar.py and install pygame mo
  <img src="https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/solution1.png" alt="Solved Maze" width="500" height="500">
 
 
-<div style="width: 20px; height: 20px; background-color: rgb(255, 0, 0); display: inline-block;"></div>
-<div>
-
-<div>
