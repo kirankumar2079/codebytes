@@ -1,6 +1,25 @@
 
 # A Star algorithm (python)
 
+The A* (A-star) algorithm is a popular pathfinding and graph traversal algorithm used to find the shortest path between two nodes. It combines the advantages of Dijkstra's algorithm (which explores all possible paths) and a greedy best-first search (which prioritizes paths that seem more promising). A* is widely used in applications such as navigation systems, AI for games, and robotics.
+
+### Key Concepts:
+1. **Heuristic Function (`h`)**: Estimates the cost to reach the goal from a given node. The accuracy of this heuristic determines the efficiency of the algorithm.
+2. **Cost Function (`g`)**: Represents the exact cost to reach the current node from the start.
+3. **Evaluation Function (`f`)**: The sum of `g` and `h` functions:  
+   \[
+   f(n) = g(n) + h(n)
+   \]
+   A* explores nodes with the lowest `f` values first, ensuring that it finds the optimal path.
+
+### How A* Works:
+- It starts from the initial node and explores neighbors based on the `f` score.
+- The algorithm uses a priority queue to expand the most promising nodes first.
+- It continues expanding nodes until it reaches the goal, ensuring that the path found is the shortest.
+
+A* is both complete and optimal, meaning it always finds a solution if one exists, and the solution will be the shortest path. Its efficiency heavily depends on the heuristic used—if the heuristic is well-designed (admissible and consistent), A* can be extremely fast.
+
+
 To run this algorithm copy / download the code in astar.py and install pygame module and in the path that has the reporsitory run "python astar.py" (cells 10 - 100 are recommended)
  - In the window that opened
  - click wehere you want the starting point to be (bule)
