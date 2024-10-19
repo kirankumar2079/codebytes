@@ -49,6 +49,4 @@ A* is both complete and optimal, meaning it always finds a solution if one exist
   - solved maze
  <img src="https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/images/solution1.png" alt="Solved Maze" width="500" height="500">
 
- # Astar at work
-
-[![Watch the video](videos/astar.gif)](videos/Astar.mp4)
+ 
