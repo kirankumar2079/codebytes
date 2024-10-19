@@ -51,4 +51,4 @@ A* is both complete and optimal, meaning it always finds a solution if one exist
 
  # Astar at work
 
- [Watch the video](videos/Astar.mp4)
+ [Watch the video](videos/astar.gif)
