@@ -115,7 +115,7 @@ Given the following graph:
 This BFS process ensures that nodes are explored level by level.
 
 
-However there is a even faster algorithm when it comes to searching paths which is A* search algorithm see the code [here]()
+However there is a even faster algorithm when it comes to searching paths which is A* search algorithm see the code [here](https://github.com/kirankumar2079/codebytes/blob/main/astar_search_algo/astar.py)
  - [Read my article on A* algorithm](https://medium.com/@kiran09082001/mastering-the-a-search-algorithm-in-python-a-real-time-visualization-guide-3c4685dfd7a7)
  - [Recommended Youtube video](https://www.youtube.com/watch?v=JtiK0DOeI4A)
 
